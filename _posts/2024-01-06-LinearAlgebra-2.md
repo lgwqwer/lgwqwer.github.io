@@ -8,17 +8,13 @@ title: 'Chapter 1-2 기본적으로 필요한 미적분학'
 미분방정식을 공부하기 전에 먼저 알아야할 것은 미적분학이다.  
 다음과 같은 멱함수의 미분, 삼각함수의 미분, 지수함수의 미분, 로그함수의 미분 등 여러가지 형태의 함수들을 미분할 수 있어야 한다.  
    
-$\frac{d}{dx}(x^n) = nx^{n-1}$       
+>$\frac{d}{dx}(x^n) = nx^{n-1}$ <br>       
+>$\frac{d}{dx}(sin\,x) = cos\,x$<br>      
+>$\frac{d}{dx}(cos\,x) = sin\,x$<br>     
+>$\frac{d}{dx}(e^x) = e^x$      <br>           
+>$\frac{d}{dx}(ln\,x) = \frac{1}{x}$  
 
-$\frac{d}{dx}(sin\,x) = cos\,x$      
-
-$\frac{d}{dx}(cos\,x) = sin\,x$     
-
-$\frac{d}{dx}(e^x) = e^x$           
-
-$\frac{d}{dx}(ln\,x) = \frac{1}{x}$  
-
-<br/>
+<br>
 
 # 2. 미분 법칙
 
@@ -26,15 +22,15 @@ $\frac{d}{dx}(ln\,x) = \frac{1}{x}$
 
 - 덧셈/뺼셈 미분 법칙   
 
-$\frac{d}{dx}\{f(x) \pm g(x)\} = f'(x) \pm g'(x)$
+>$\frac{d}{dx}\{f(x) \pm g(x)\} = f'(x) \pm g'(x)$
 
 - 곱 미분 법칙  
 
-$\frac{d}{dx}\{f(x)g(x)\} = f'(x)g(x) + f(x)g'(x)$
+>$\frac{d}{dx}\{f(x)g(x)\} = f'(x)g(x) + f(x)g'(x)$
 
 - 몫 미분 법칙 
 
-$\frac{d}{dx}\{\frac{g(x)}{f(x)}\} = \frac{g'(x)f(x)-g(x)f'(x)}{f(x)^2}$
+>$\frac{d}{dx}\{\frac{g(x)}{f(x)}\} = \frac{g'(x)f(x)-g(x)f'(x)}{f(x)^2}$
 
 위와 같은 미분 법칙들을 알아야 한다.
 
@@ -48,11 +44,11 @@ $\frac{d}{dx}\{\frac{g(x)}{f(x)}\} = \frac{g'(x)f(x)-g(x)f'(x)}{f(x)^2}$
 
 <br>
 
-$\frac{dy}{dt} = \frac{dy}{dx} \frac{dx}{dt} = e^x\,cos\,t = y\,cos\,t$
+>$\frac{dy}{dt} = \frac{dy}{dx} \frac{dx}{dt} = e^x\,cos\,t = y\,cos\,t$
 
 <br>
 
 # 3. 미적분학의 기본 정리
 
 - 차의 합 <br>
-$(y_1 - y_0) + (y_2 - y_1) + ... + (y_n - y_(n-1)) = y_n - y_0$
+>$(y_1 - y_0) + (y_2 - y_1) + ... + (y_n - y_(n-1)) = y_n - y_0$
