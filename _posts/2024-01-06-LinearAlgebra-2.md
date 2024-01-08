@@ -1,6 +1,8 @@
 ---
 layout: single
 title: 'Chapter 1-2 기본적으로 필요한 미적분학'
+comments: true
+use_math: true
 ---
 
 # 1. 주요 함수들의 미분
