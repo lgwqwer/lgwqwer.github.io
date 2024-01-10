@@ -10,10 +10,10 @@ use_math: true
 # 1. 네 가지 예의 해
 
  
-1. $dy/dt = y$ 
+1. $\frac{dy}{dt} = y$ 
 
-2. $dy/dt = -y$
+2. $\frac{dy}{dt} = -y$
 
-3. $dy/dt = 2ty$
+3. $\frac{dy}{dt} = 2ty$
 
-4. $dy/dy = y^2$
+4. $\frac{dy}{dy} = y^2$

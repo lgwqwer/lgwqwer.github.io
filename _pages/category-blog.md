@@ -1,5 +1,5 @@
 ---
-title: "blog"
+title: "선형대수학"
 layout: archive
 permalink: https://lgwqwer.github.io/testurl/
 ---
