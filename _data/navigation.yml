@@ -16,7 +16,7 @@ sidebar-category:
     children:
       - title: "인공지능"
         url: https://lgwqwer.github.io/AI-Lecture-2/
-      #- title: "카테고리B"
-        #url:  "/CategoryB"
-      #- title: "카테고리C"
-        #url:  "/CategoryC"
+      - title: "카테고리B"
+        url:  "/CategoryB"
+      - title: "카테고리C"
+        url:  "/CategoryC"
