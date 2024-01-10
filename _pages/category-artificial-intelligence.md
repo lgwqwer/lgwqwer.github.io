@@ -1,5 +1,5 @@
 ---
-title: "¼±Çü´ë¼öÇÐ"
+title: "ì„ í˜•ëŒ€ìˆ˜í•™"
 layout: archive
 permalink: /linear_algebra
 ---
