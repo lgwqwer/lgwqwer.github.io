@@ -5,7 +5,7 @@
   {% if page.sidebar.title %}<h3 class="nav__title" style="padding-left: 0;">{{ page.sidebar.title }}</h3>{% endif %}
   <input id="ac-toc" name="accordion-toc" type="checkbox" />
   <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
-  <li> ÀüÃ¼ ±Û ¼ö ({{sum}})°³ </li>
+  <li> ì „ì²´ ê¸€ ìˆ˜ ({{sum}})ê°œ </li>
   <ul class="nav__items">
     {% for nav in navigation %}
       
@@ -21,9 +21,9 @@
           {% for child in nav.children %}
           
           {% comment %}
-             ¾Æ·¡ ºÎºĞÀº Ä«Å×°í¸® ¿·¿¡ ÇØ´ç Ä«Å×°í¸®¿¡ ÇØ´çÇÏ´Â Æ÷½ºÆ® ¼ö¸¦ Ç¥½ÃÇÏ±â À§ÇØ ¼öÁ¤µÇ¾ú½À´Ï´Ù.
-             navigation.yml¿¡¼­ children ºÎºĞ¿¡ ÇÏÀ§ ¼Ó¼ºÀ¸·Î category¸¦ Ãß°¡ÇÕ´Ï´Ù.
-             ÀÌ¸¦ ÅëÇØ category ¸íÀ» °¡Á® ¿Ã ¼ö ÀÖ°í, site.categories¸¦ ÅëÇØ ÇØ´ç Ä«Å×°í¸®ÀÇ Æ÷½ºÆ® °¹¼ö¸¦ °¡Á®¿Ã ¼ö ÀÖ½À´Ï´Ù.
+             ì•„ë˜ ë¶€ë¶„ì€ ì¹´í…Œê³ ë¦¬ ì˜†ì— í•´ë‹¹ ì¹´í…Œê³ ë¦¬ì— í•´ë‹¹í•˜ëŠ” í¬ìŠ¤íŠ¸ ìˆ˜ë¥¼ í‘œì‹œí•˜ê¸° ìœ„í•´ ìˆ˜ì •ë˜ì—ˆìŠµë‹ˆë‹¤.
+             navigation.ymlì—ì„œ children ë¶€ë¶„ì— í•˜ìœ„ ì†ì„±ìœ¼ë¡œ categoryë¥¼ ì¶”ê°€í•©ë‹ˆë‹¤.
+             ì´ë¥¼ í†µí•´ category ëª…ì„ ê°€ì ¸ ì˜¬ ìˆ˜ ìˆê³ , site.categoriesë¥¼ í†µí•´ í•´ë‹¹ ì¹´í…Œê³ ë¦¬ì˜ í¬ìŠ¤íŠ¸ ê°¯ìˆ˜ë¥¼ ê°€ì ¸ì˜¬ ìˆ˜ ìˆìŠµë‹ˆë‹¤.
           {% endcomment %}
           {% assign post_cnt = 0 %}
           {% for category in site.categories %}
