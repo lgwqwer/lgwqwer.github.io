@@ -1,7 +1,7 @@
 ---
-title: "선형대수학"
+title: "blog"
 layout: archive
-permalink: https://lgwqwer.github.io/testurl/
+permalink: /blog
 ---
 
 
