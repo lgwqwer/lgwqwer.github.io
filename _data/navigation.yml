@@ -18,5 +18,5 @@ sidebar-category:
         url: "/linear_algebra"
       - title: "인공지능"
         url:  "/artificial_intelligence"
-      - title: "이산수학"
-        url:  "/discrete_mathematics"
+      #- title: "이산수학"
+        #url:  "/discrete_mathematics"
