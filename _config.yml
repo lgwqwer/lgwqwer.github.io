@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "GeonBungNote"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "이건우"
+description              : #"An amazing website."
 url                      : "https://lgwqwer.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Geon Bung"
+  name             : "건붕"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "안녕하세요! 저는 건붕입니다."
-  location         : "South Korea"
-  email            : "lgwqwer@gmail.com"
+  location         : #"South Korea"
+  email            : #"lgwqwer@gmail.com"
   links:
     - label: #"Email"
       icon: #"fas fa-fw fa-envelope-square"
