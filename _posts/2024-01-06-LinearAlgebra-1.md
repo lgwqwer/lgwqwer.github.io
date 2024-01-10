@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: 'Chapter 1-1 선형과 비선형'
 comments: true
 use_math: true
