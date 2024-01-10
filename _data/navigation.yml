@@ -15,8 +15,8 @@ sidebar-category:
   - title: "카테고리 "
     children:
       - title: "인공지능"
-        url: https://lgwqwer.github.io/AI-Lecture-2/
-      - title: "카테고리B"
-        url:  "/CategoryB"
-      - title: "카테고리C"
-        url:  "/CategoryC"
+        url: https://lgwqwer.github.io/AI-Lecture-1/
+      - title: "선형대수학"
+        url: https://lgwqwer.github.io/LinearAlgebra-1/
+      #- title: "카테고리C"
+        #url:  "/CategoryC"
