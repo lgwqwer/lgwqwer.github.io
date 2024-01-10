@@ -1,7 +1,7 @@
 ---
 title: "blog"
 layout: archive
-permalink: https://lgwqwer.github.io/AI-Lecture-2/
+permalink: https://lgwqwer.github.io/
 ---
 
 
