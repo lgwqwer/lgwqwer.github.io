@@ -1,9 +1,9 @@
 ---
-title: "blog"
+title: "선형대수학"
 layout: archive
-permalink: /blog
+permalink: /linear-algebra
 ---
 
 
-{% assign posts = site.categories.blog %}
+{% assign posts = site.categories.linear-algebra %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

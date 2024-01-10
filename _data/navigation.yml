@@ -14,8 +14,8 @@ main:
 sidebar-category:
   - title: "카테고리"
     children:
-      - title: "블로그"
-        url: "/blog"
+      - title: "선형대수학"
+        url: "/linear-algebra"
       - title: "카테고리B"
         url:  "/CategoryB"
       - title: "카테고리C"
