@@ -1,9 +1,9 @@
 ---
-title: "ì„ í˜•ëŒ€ìˆ˜í•™"
+title: "ÀÌ»ê¼öÇÐ"
 layout: archive
-permalink: /linear_algebra
+permalink: /discrete_mathematics
 ---
 
 
-{% assign posts = site.categories.linear-algebra %}
+{% assign posts = site.categories.discrete_mathematics %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

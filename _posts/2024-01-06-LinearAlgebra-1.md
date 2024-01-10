@@ -2,7 +2,7 @@
 layout: archive
 title: 'Chapter 1-1 선형과 비선형'
 categories:
-  - linear-algebra
+  - linear_algebra
 comments: true
 use_math: true
 ---

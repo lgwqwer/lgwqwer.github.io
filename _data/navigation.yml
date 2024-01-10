@@ -15,8 +15,8 @@ sidebar-category:
   - title: "카테고리"
     children:
       - title: "선형대수학"
-        url: "/linear-algebra"
-      - title: "카테고리B"
-        url:  "/CategoryB"
-      - title: "카테고리C"
-        url:  "/CategoryC"
+        url: "/linear_algebra"
+      - title: "인공지능"
+        url:  "/artificial_intelligence"
+      - title: "이산수학"
+        url:  "/discrete_mathematics"

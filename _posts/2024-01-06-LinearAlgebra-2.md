@@ -1,6 +1,8 @@
 ---
 layout: archive
 title: 'Chapter 1-2 기본적으로 필요한 미적분학'
+categories:
+  - linear_algebra
 comments: true
 use_math: true
 ---
