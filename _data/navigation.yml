@@ -21,8 +21,7 @@ sidebar-category1:
       - title: "이산수학"
         url:  "/discrete_mathematics"
         category: "discrete-mathmatics"
-      
-sidebar-category2:
+        
   - title: "수학"
     children:
     
