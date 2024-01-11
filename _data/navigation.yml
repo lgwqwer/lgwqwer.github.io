@@ -14,13 +14,18 @@ main:
 sidebar-category:
   - title: "프로그래밍"
     children:
+      
       - title: "인공지능"
         url:  "/artificial_intelligence"
         category: "artificial-intelligence"
 
-      - title: "이산수학"
-        url:  "/discrete_mathematics"
-        category: "discrete-mathmatics"
+      - title: "C++"
+        url: "/cpp_programming"
+        category: "cpp-programming"
+
+      - title: "Python"
+        url: "python_programming"
+        category: "python-programming"
 
   - title: "수학"
     children:
@@ -37,3 +42,6 @@ sidebar-category:
         url:  "/engineering_mathematics"
         category: "engineering-mathematics"
 
+      - title: "이산수학"
+        url:  "/discrete_mathematics"
+        category: "discrete-mathmatics"
