@@ -12,12 +12,8 @@ main:
   #   url: /sitemap/
 
 sidebar-category:
-  - title: "카테고리"
+  - title: "프로그래밍"
     children:
-      - title: "선형대수학"
-        url: "/linear_algebra"
-        category: "linear-algebra"
-
       - title: "인공지능"
         url:  "/artificial_intelligence"
         category: "artificial-intelligence"
@@ -25,11 +21,18 @@ sidebar-category:
       - title: "이산수학"
         url:  "/discrete_mathematics"
         category: "discrete-mathmatics"
+      
+  - title: "수학"
+    children:
+      - title: "미적분"
+      url:  "/calculus"
+      category: "calculus"    
+
+      - title: "선형대수학"
+        url: "/linear_algebra"
+        category: "linear-algebra"
 
       - title: "공업수학"
         url:  "/engineering_mathematics"
         category: "engineering-mathematics"
 
-      - title: "미적분"
-        url:  "/calculus"
-        category: "calculus"    
