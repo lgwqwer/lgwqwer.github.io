@@ -25,3 +25,11 @@ sidebar-category:
       - title: "이산수학"
         url:  "/discrete_mathematics"
         category: "discrete-mathmatics"
+
+      - title: "공업수학"
+        url:  "/engineering_mathematics"
+        category: "engineering-mathematics"
+
+      - title: "미적분"
+        url:  "/calculus"
+        category: "calculus"    
