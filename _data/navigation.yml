@@ -22,6 +22,7 @@ sidebar-category:
         url:  "/discrete_mathematics"
         category: "discrete-mathmatics"
       
+sidebar-category:
   - title: "수학"
     children:
       - title: "미적분"
