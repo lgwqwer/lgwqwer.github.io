@@ -38,7 +38,7 @@ sidebar-category:
         url: "/linear_algebra"
         category: "linear-algebra"
 
-      - title: "공업수학"
+      - title: "공학수학"
         url:  "/engineering_mathematics"
         category: "engineering-mathematics"
 
