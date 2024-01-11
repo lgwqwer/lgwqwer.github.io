@@ -11,7 +11,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-sidebar-category:
+sidebar-category1:
   - title: "프로그래밍"
     children:
       - title: "인공지능"
@@ -22,7 +22,7 @@ sidebar-category:
         url:  "/discrete_mathematics"
         category: "discrete-mathmatics"
       
-sidebar-category:
+sidebar-category2:
   - title: "수학"
     children:
       - title: "미적분"
