@@ -1,5 +1,5 @@
 ---
-title: "python га╥н╠в╥║╧ж"
+title: "python М■└К║°Й╥╦К·≤К╟█"
 layout: archive
 permalink: /python_programming
 ---

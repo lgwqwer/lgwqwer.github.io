@@ -1,5 +1,5 @@
 ---
-title: "C++ га╥н╠в╥║╧ж"
+title: "C++ М■└К║°Й╥╦К·≤К╟█"
 layout: archive
 permalink: /cpp_programming
 ---
