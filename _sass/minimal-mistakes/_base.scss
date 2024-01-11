@@ -306,11 +306,6 @@ svg:not(:root) {
   li ol {
     margin-top: 0;
   }
-  
-  .site-nav__item:hover {
-    border-bottom: 2px solid #007acc; /* 밑줄 두께와 색상 설정 */
-    color: #007acc;                   /* 텍스트 색상 설정 */
-  }
 }
 
 
