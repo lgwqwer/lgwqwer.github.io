@@ -107,7 +107,6 @@ author:
   name             : "건붕"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "안녕하세요! 저는 건붕입니다."
-  author_separator : "-"
   location         : #"South Korea"
   email            : #"lgwqwer@gmail.com"
   links:
