@@ -25,9 +25,10 @@ sidebar-category1:
 sidebar-category2:
   - title: "수학"
     children:
+    
       - title: "미적분"
-      url:  "/calculus"
-      category: "calculus"    
+        url:  "/calculus"
+        category: "calculus"    
 
       - title: "선형대수학"
         url: "/linear_algebra"
