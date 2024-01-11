@@ -292,6 +292,5 @@ defaults:
       related: true
       use_math: true
       sidebar:                    # 추가한 부분
-        nav: "sidebar-category1"  # 추가한 부분
-        #nav: "sidebar-category2"  # 추가한 부분 
+        nav: "sidebar-category"   # 추가한 부분
 
