@@ -51,4 +51,5 @@ vector1을 $\overrightarrow{v_1}$ 이라 할 때, 음 벡터 $-\overrightarrow{v
 
 벡터의 뺼셈도 $\overrightarrow{u} + (-\overrightarrow{v})$ 형태로 바꾸어 벡터의 덧셈을 하면 된다!
 
+벡터는 개쩔어요
 
