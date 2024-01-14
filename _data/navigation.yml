@@ -45,3 +45,10 @@ sidebar-category:
       - title: "이산수학"
         url:  "/discrete_mathematics"
         category: "discrete-mathmatics"
+
+  - title: "팀 프로젝트"
+    children:
+
+      - title: "기숙사 합격 확률 웹 사이트"
+        url: "/dormitory_project"
+        category: "dormitory-project"

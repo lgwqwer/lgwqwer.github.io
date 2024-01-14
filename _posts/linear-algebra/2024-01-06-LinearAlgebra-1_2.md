@@ -77,8 +77,13 @@ $u = (a_1,\,a_2,\,,\ldots,\,a_n) \in F^n$, $v = (b_1,\,b_2,\,,\ldots,\,b_n) \in 
 
 # 3. 행렬(matrix)
 
-> - keyword  
+> - keyword \\  
 >  행렬(matrix), 대각성분(diagonal entry), 행(row), 열(column), 영 행렬(zero matrix), 정사각행렬(square matrix)
->
-> 
 
+행렬:
+$
+\begin{bmatrix}
+  a & b \\
+  c & d
+\end{bmatrix}
+$
