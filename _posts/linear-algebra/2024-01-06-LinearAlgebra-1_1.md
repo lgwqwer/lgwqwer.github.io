@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 'Chapter 1-1 벡터'
+title: 'Chapter 1-1 벡터(vector)'
 categories:
   - linear-algebra
 comments: true
@@ -36,7 +36,7 @@ use_math: true
 
 ### 2. 삼각형 법칙
 
-![image](https://github.com/lgwqwer/ce-converter-app/assets/129755540/63391920-29c4-424e-9589-68a5da3bf43b)
+![image](https://github.com/lgwqwer/ce-converter-app/assets/129755540/63391920-29c4-4 24e-9589-68a5da3bf43b)
 
 한 벡터의 시점과 또 다른 벡터의 종점을 연결하여
 삼각형을 만든다.
