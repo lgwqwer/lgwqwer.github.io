@@ -18,13 +18,15 @@ use_math: true
 
 # 1. 벡터공간(vector space)
 
-keyword: 벡터공간(vector), 스칼라(scalar), 벡터(vector), 
+> - keyword  
+> 벡터공간(vector), 스칼라(scalar), 벡터(vector)
 
+> - Definition  
 > 벡터공간(vector space)혹은 선형공간(linear space) $V$는 특정한 8가지 조건을 만족하여 정의된 합(sum)과 스칼라 곱(scalar multiplication) 두 연산을 가진 집합이다
 
 여기서 말하는 8가지 조건은 다음과 같습니다
 
-> 8가지 조건  
+> - 8가지 조건  
 > 1. $\forall (x,\,y) \in V$에 대하여 $x + y = y + x$ 이다.   (덧셈의 교환법칙)
 > 2. $\forall (x,\,y,\,z) \in V$에 대하여 $(x + y) + z = x + (y + z)$ 이다. (덧셈의 결합법칙)
 > 3. $\forall x \in V$에 대하여 $x + 0 = x$ 인 $0 \in V$가 존재한다. (영벡터의 존재성)
@@ -46,16 +48,37 @@ keyword: 벡터공간(vector), 스칼라(scalar), 벡터(vector),
 
 # 2. $n$순서쌍($n$-tuple)
 
-> Definition  
-> $a_1,\,a_2,\,a_3, \ldots,\,a_n$이 $F$의 원소일 때, $(a_1,\,a_2,\,a_3, \ldots,\,a_n)$꼴을 $F$에서 성분을 가져온 $n$순서쌍($n$-tuple) 이라고 합니다.   
-여기서 $a_1, \, a_2$와 같은 $n$순서쌍의 원소를 성분(entry 또는 component)라고 합니다
+> - keyword  
+> $n$순서쌍($n$-tuple), 성분(entry), 행 벡터(row vector), 열 벡터(column vector) 
+
+> - Definition  
+> $a_1,\,a_2,\,a_3, \ldots,\,a_n$이 $F$의 원소일 때, $(a_1,\,a_2,\,a_3, \ldots,\,a_n)$꼴을 $F$에서 성분을 가져온 $n$순서쌍($n$-tuple) 이라고 한다.   
+여기서 $a_1, \, a_2$와 같은 $n$순서쌍의 원소를 성분(entry 또는 component)라고 한다.
 
 $F$에서 성분을 가져온 두 $n$순서쌍 $(a_1,\,a_2,\,a_3, \ldots,\,a_n)$와 $(b_1,\,b_2,\,b_3, \ldots,\,b_n)$가 $a_i = b_i \,(i = 1,\,2,\,3,\ldots, n)$일 때, 두 순서쌍은 같다(equal)고 정의합니다  
 
 예를 들어, $(1,\,4,\,5,\,6,\,10)$, $(1,\,4,\,5,\,6,\,10)$ 처럼  두 순서쌍의 성분이 같으면 서로 같은 $n$순서쌍 입니다
 
-한번 벡터 공간을 정의해봅시다  
+이제 벡터 공간을 한번 정의해봅시다  
 정의를 하기에 앞서 표기법 하나를 짚고 가겠습니다
-> Notation
-> - $F^n$ : 체 $F$에서 성분을 가져온 모든 $n$순서쌍의 집합
+> - Notation  
+> $F^n$ : 체 $F$에서 성분을 가져온 모든 $n$순서쌍의 집합
+
+$u = (a_1,\,a_2,\,,\ldots,\,a_n) \in F^n$, $v = (b_1,\,b_2,\,,\ldots,\,b_n) \in F^n$, $c \in F^n$ 일 떄, 합과 스칼라 곱의 정의가
+
+> - 합: $u + v = (a_1 + b_1,\, a_2 + b_2, \ldots, a_n + b_n)$  
+> - 스칼라 곱: $cu = (ca_1,\, ca_2, \ldots,\, ca_n)$
+
+이면 앞서말한 8가지 조건을 모두 만족하기에, 이 집합은 $F$-벡터공간 입니다
+
+추가적으로, $F^n$의 벡터는 주로 행 벡터(row vector)보다는 열 벡터(column vector)로 표현합니다
+
+<br>
+
+# 3. 행렬(matrix)
+
+> - keyword  
+>  행렬(matrix), 대각성분(diagonal entry), 행(row), 열(column), 영 행렬(zero matrix), 정사각행렬(square matrix)
+>
+> 
 
