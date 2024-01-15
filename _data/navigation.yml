@@ -49,6 +49,6 @@ sidebar-category:
   - title: "팀 프로젝트"
     children:
 
-      - title: "기숙사 합격 확률 웹 사이트"
+      - title: "웹 기반 기숙사 추천 플랫폼"
         url: "/dormitory_project"
         category: "dormitory-project"

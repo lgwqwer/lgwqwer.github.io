@@ -1,5 +1,5 @@
 ---
-title: "기숙사 합격 확률 예측 웹사이트"
+title: "웹 기반 기숙사 추천 플랫폼"
 layout: archive
 permalink: /dormitory_project
 ---
