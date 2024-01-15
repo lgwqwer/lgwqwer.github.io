@@ -29,11 +29,11 @@ use_math: true
 > - 8가지 조건  
 > 1. $\forall (x,\,y) \in V$에 대하여 $x + y = y + x$ 이다.   (덧셈의 교환법칙)
 > 2. $\forall (x,\,y,\,z) \in V$에 대하여 $(x + y) + z = x + (y + z)$ 이다. (덧셈의 결합법칙)
-> 3. $\forall x \in V$에 대하여 $x + 0 = x$ 인 $0 \in V$가 존재한다. (영벡터의 존재성)
-> 4. $\forall (x,\,y) \in V$에 대하여 $x + y = 0$인 $y \in V$가 존재한다. (역벡터의 존재성)
-> 5. $\forall x \in V$에 대하여 $1x = x$이다.
-> 6. $\forall (a,\,b) \in F$와 $\forall x \in V$에 대하여 $(ab)x = a(bx)$ 이다. (곱셈의 결합법칙)
-> 7. $\forall a \in F$와 $\forall (x,\,y) \in V$에 대하여 $a(x + y) = ax + by$ 이다. (곱셈의 분배법칙)
+> 3. $\forall x \in V$에 대하여 $x + 0 = x$ 인 $0 \in V$가 존재한다. (항등원의 존재성)
+> 4. $\forall (x,\,y) \in V$에 대하여 $x + y = 0$인 $y \in V$가 존재한다. (역원의 존재성)
+> 5. $\forall x \in V$에 대하여 $1x = x$이다. (스칼라 곱의 항등원의 존재성)
+> 6. $\forall (a,\,b) \in F$와 $\forall x \in V$에 대하여 $(ab)x = a(bx)$ 이다. (스칼라 곱의 결합법칙)
+> 7. $\forall a \in F$와 $\forall (x,\,y) \in V$에 대하여 $a(x + y) = ax + by$ 이다. (스칼라 곱의 분배법칙)
 > 8. $\forall (a,\,b) \in F$와 $\forall x \in V$에 대하여 $(a + b)x = ax + bx$ 이다. (분배법칙)
 
 이와 같은 8가지 조건을 만족시키는 두 연산(합, 스칼라 곱)이 정의되어있는 집합이 벡터공간이다
