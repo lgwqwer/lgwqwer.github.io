@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: posts
 title: 'Chapter 1-2 벡터공간(vector space)'
 categories:
   - linear-algebra

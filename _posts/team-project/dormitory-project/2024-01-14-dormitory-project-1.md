@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: posts
 title: '프로젝트 기획안'
 categories:
   - dormitory-project

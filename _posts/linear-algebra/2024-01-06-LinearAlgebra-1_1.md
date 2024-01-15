@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: posts
 title: 'Chapter 1-1 벡터(vector)'
 categories:
   - linear-algebra
