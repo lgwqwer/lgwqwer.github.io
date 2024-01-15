@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: posts
 title: 'Chapter 1-3 부분공간(subspace)'
 categories:
   - linear-algebra
