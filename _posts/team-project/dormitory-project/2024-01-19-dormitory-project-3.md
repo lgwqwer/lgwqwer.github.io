@@ -1,13 +1,13 @@
 ---
 layout: single
-title: 'ÇÁ·ÎÁ§Æ® ±âÈ¹¾È'
+title: 'í”„ë¡œì íŠ¸ ê¸°íšì•ˆ'
 categories:
   - dormitory-project
 comments: true
 use_math: true
 ---
 
-# 2024-01-19 È¸ÀÇ ¸ñÀû
-> ±êÇãºê È°¿ë ¹æ¹ý
+# 2024-01-19 íšŒì˜ ëª©ì 
+> ê¹ƒí—ˆë¸Œ í™œìš© ë°©ë²• ìˆ™ì§€
 > 
 
