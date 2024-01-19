@@ -46,6 +46,21 @@ sidebar-category:
         url:  "/discrete_mathematics"
         category: "discrete-mathmatics"
 
+  - title: "웹"
+    children:
+
+      - title: "HTML"
+      - url: "/html_study"
+      - category: "html-study"
+
+      - title: "CSS"
+      - url: "/css_study"
+      - category: "css-study"
+
+      - title: "JS"
+      - url: "javascript_study"
+      - category: "javascript-study"
+
   - title: "팀 프로젝트"
     children:
 
