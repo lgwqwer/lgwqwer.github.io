@@ -61,6 +61,10 @@ sidebar-category:
       - url: "javascript_study"
       - category: "javascript-study"
 
+      - title: "React"
+      - url: "react_study"
+      - category: "react-study"
+
   - title: "팀 프로젝트"
     children:
 

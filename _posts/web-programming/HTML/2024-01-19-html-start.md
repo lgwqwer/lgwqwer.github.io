@@ -1,6 +1,6 @@
 ---
 layout: single
-title: '웹이란 무엇인가'
+title: 'HTML이란 무엇인가'
 categories:
   - html-study
 comments: true
