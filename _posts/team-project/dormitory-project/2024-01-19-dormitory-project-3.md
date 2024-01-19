@@ -1,6 +1,6 @@
 ---
 layout: single
-title: '프로젝트 기획안'
+title: '깃허브 활용 방법'
 categories:
   - dormitory-project
 comments: true
