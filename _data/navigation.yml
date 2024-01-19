@@ -27,6 +27,25 @@ sidebar-category:
         url: "python_programming"
         category: "python-programming"
 
+  - title: "웹"
+    children:
+
+      - title: "HTML"
+      - url: "/html_study"
+      - category: "html-study"
+
+      - title: "CSS"
+      - url: "/css_study"
+      - category: "css-study"
+
+      - title: "JavaScript"
+      - url: "/javascript_study"
+      - category: "javascript-study"
+
+      - title: "React"
+      - url: "/react_study"
+      - category: "react-study"
+
   - title: "수학"
     children:
     
@@ -45,25 +64,6 @@ sidebar-category:
       - title: "이산수학"
         url:  "/discrete_mathematics"
         category: "discrete-mathmatics"
-
-  - title: "웹"
-    children:
-
-      - title: "HTML"
-      - url: "/html_study"
-      - category: "html-study"
-
-      - title: "CSS"
-      - url: "/css_study"
-      - category: "css-study"
-
-      - title: "JavaScript"
-      - url: "javascript_study"
-      - category: "javascript-study"
-
-      - title: "React"
-      - url: "react_study"
-      - category: "react-study"
 
   - title: "팀 프로젝트"
     children:
