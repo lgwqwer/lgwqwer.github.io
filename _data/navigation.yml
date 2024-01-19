@@ -15,10 +15,6 @@ sidebar-category:
   - title: "프로그래밍"
     children:
       
-      - title: "인공지능"
-        url:  "/artificial_intelligence"
-        category: "artificial-intelligence"
-
       - title: "C++"
         url: "/cpp_programming"
         category: "cpp-programming"
@@ -26,6 +22,10 @@ sidebar-category:
       - title: "Python"
         url: "python_programming"
         category: "python-programming"
+
+      - title: "JAVA"
+        url: "java_programming"
+        category: "java-programming"
 
   - title: "웹"
     children:
@@ -45,6 +45,13 @@ sidebar-category:
       - title: "React"
         url: "/react_study"
         category: "react-study"
+  
+  - title: "Computer Science"
+    children:
+
+      - title: "인공지능"
+        url:  "/artificial_intelligence"
+        category: "artificial-intelligence"
 
   - title: "수학"
     children:
