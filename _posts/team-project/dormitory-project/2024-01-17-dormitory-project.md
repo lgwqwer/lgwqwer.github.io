@@ -50,17 +50,15 @@ use_math: true
 - 프론트엔드(Frontend)
     > 이건우(팀장)
 
-<br>
-
-    필요지식: HTML, CSS, JS, React
+      필요지식: HTML, CSS, JS, React
 
 - 백엔드(Backend)
-    > 이건우(팀장)
-    > 김인우
-    > 김예빈
-    > 박시은
+    > 이건우(팀장)  
+    > 김인우  
+    > 김예빈  
+    > 박시은  
 
-    필요지식: JAVA, SQL, Node.js
+      필요지식: JAVA, SQL, Node.js
 
 <br>
 
