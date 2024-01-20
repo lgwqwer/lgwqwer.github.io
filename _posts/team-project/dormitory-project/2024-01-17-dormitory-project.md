@@ -58,7 +58,7 @@ use_math: true
     > 김예빈  
     > 박시은  
 
-      필요지식: JAVA, SQL, Node.js
+      필요지식: JAVA, SQL, Spring
 
 <br>
 
