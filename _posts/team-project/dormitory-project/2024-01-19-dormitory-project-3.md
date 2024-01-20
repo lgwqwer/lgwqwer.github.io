@@ -1,6 +1,6 @@
 ---
 layout: single
-title: '깃허브 활용 방법'
+title: '깃허브 원격 저장소를 로컬 저장소로 불러오기'
 categories:
   - dormitory-project
 comments: true
