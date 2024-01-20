@@ -438,9 +438,9 @@
   }
 }
 
-.nav__list .nav__items a{
+.nav__list .nav__items a {
   margin: 0;
-  font-size: 0.85rem;
+  font-size: 1.25rem;
 
   a {
     color: inherit;
@@ -494,7 +494,7 @@
   margin: 0.5rem 0;
   padding: 0.25rem 0;
   font-family: $sans-serif-narrow;
-  font-size: $type-size-5;
+  font-size: $type-size-6;
   font-weight: bold;
   text-transform: uppercase;
   border-bottom: 1px solid $border-color;
