@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "흔한 컴공 학부생의 뭐라도 끄적이는 블로그"
+title                    : "건붕이의 뭐라도 끄적이는 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "GeonBung"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "건붕"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "안녕하세요! 저는 건붕입니다."
+  bio              : "내일은 뭐 먹지.."
   location         : #"South Korea"
   email            : #"lgwqwer@gmail.com"
   links:
