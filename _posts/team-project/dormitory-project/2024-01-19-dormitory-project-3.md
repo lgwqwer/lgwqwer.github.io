@@ -20,10 +20,6 @@ use_math: true
 
 <br>
 
-# 깃허브 활용 방법 숙지
-
-<br>
-
 ## 1. 로컬 저장소를 만들 루트 파일 만들기
 
 ![image](https://github.com/lgwqwer/lgwqwer.github.io/assets/129755540/e1707a7f-b01d-4e2a-9545-207112ae3ff5)
