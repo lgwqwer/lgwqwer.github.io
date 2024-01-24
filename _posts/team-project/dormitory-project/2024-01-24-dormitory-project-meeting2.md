@@ -2,7 +2,7 @@
 layout: single
 title: '개발새발 - 회의록 2'
 categories:
-  - dormitory-project
+  # - dormitory-project
 comments: true
 use_math: true
 ---
