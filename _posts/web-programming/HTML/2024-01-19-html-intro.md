@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'HTML이란 무엇인가'
+title: 'Intro. HTML이란 무엇인가?'
 categories:
   - html-study
 comments: true
