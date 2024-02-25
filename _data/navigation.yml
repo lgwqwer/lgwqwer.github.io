@@ -45,7 +45,11 @@ sidebar-category:
       - title: "React"
         url: "/react_study"
         category: "react-study"
-  
+
+      - title: "Spring Boot"
+        url: "/spring_boot"
+        category: "spring-boot"
+
   - title: "Computer Science"
     children:
 

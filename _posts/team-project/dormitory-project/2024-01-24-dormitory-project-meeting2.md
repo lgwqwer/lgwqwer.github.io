@@ -100,7 +100,7 @@ use_math: true
 
 - 프론트 엔드
 
-> HTML, CSS, JS + {Zeplin, Figma (디자인 협업툴)}
+> HTML, CSS, JS
 
 - 백엔드
 
