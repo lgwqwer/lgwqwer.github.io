@@ -35,7 +35,7 @@ sidebar-category:
         category: "html-study"
 
       - title: "CSS"
-        url: "/css_study" 
+        url: "/css_study"
         category: "css-study"
 
       - title: "JavaScript"
