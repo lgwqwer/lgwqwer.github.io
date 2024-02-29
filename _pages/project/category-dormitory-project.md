@@ -1,5 +1,5 @@
 ---
-title: "웹 기반 기숙사 추천 플랫폼"
+title: "웹 기반 기숙사 플랫폼"
 layout: archive
 permalink: /dormitory_project
 ---
