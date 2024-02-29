@@ -22,14 +22,13 @@
     opacity: 0.75;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
-    margin-left: 0;
     
     &:hover {
       opacity: 1;
     }
 
     &.sticky {
-      // overflow-y: auto;
+      overflow-y: auto;
       /* calculate height of nav list
          viewport height - nav height - masthead x-padding
       */
@@ -148,7 +147,7 @@
 .author__content {
   display: table-cell;
   vertical-align: top;
-  padding-left: 15px;
+  padding-left: 5px;
   padding-right: 25px;
   line-height: 1;
 
