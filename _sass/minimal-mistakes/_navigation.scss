@@ -455,7 +455,7 @@
 
   @include breakpoint(max-width $large - 1px) {
     position: relative;
-    max-height: 0;
+    max-height: 2em;
     opacity: 0%;
     overflow: hidden;
     z-index: 10;
