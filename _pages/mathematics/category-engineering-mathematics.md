@@ -1,5 +1,5 @@
 ---
-title: "공학수학"
+title: "공업수학"
 layout: archive
 permalink: /engineering_mathematics
 ---
