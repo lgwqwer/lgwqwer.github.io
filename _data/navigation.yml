@@ -35,16 +35,16 @@ sidebar-category:
         category: "html-study"
 
       - title: "CSS"
-        url: "/css_study"
+        url: "/css_study" 
         category: "css-study"
 
       - title: "JavaScript"
         url: "/javascript_study"
         category: "javascript-study"
 
-      - title: "React"
-        url: "/react_study"
-        category: "react-study"
+      # - title: "React"
+      #   url: "/react_study"
+      #   category: "react-study"
 
       - title: "Spring Boot"
         url: "/spring_boot"
