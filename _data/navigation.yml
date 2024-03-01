@@ -82,3 +82,10 @@ sidebar-category:
       - title: "웹 기반 기숙사 플랫폼"
         url: "/dormitory_project"
         category: "dormitory-project"
+
+  - title: "메모장"
+  children:
+
+    - title: "교수님의 조언"
+      url: "/professor's_advice"
+      category: "professor's-advice"     
