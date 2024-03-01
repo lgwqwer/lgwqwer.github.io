@@ -440,7 +440,12 @@
 
 .nav__list .nav__items a {
   margin: 0;
-  font-size: 0.75rem;
+  font-size: 0.6rem;
+  color: #7F8487;
+
+  a:hover {
+    color: #ECDBBA;
+  }
 
   a {
     color: inherit;
