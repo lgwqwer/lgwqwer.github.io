@@ -14,7 +14,7 @@
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
 
-  @include breakpoint($max-width: $large){
+  @include breakpoint($large){
     margin-left: 1em;
     margin-right: 1em;
     padding-left: 1em;
