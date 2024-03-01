@@ -83,9 +83,14 @@ sidebar-category:
         url: "/dormitory_project"
         category: "dormitory-project"
 
-  - title: "메모장"
+  - title: "끄적끄적"
     children:
 
       - title: "교수님의 조언"
         url:  "/professor_advice"
-        category: "professor-advice"     
+        category: "professor-advice"  
+
+      - title: "메모장"
+        url:  "/real_notepad"
+        category: "real_notepad"  
+         
