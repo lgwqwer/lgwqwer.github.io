@@ -84,8 +84,8 @@ sidebar-category:
         category: "dormitory-project"
 
   - title: "메모장"
-  children:
+    children:
 
-    - title: "교수님의 조언"
-      url: "/professor_advice"
-      category: "professor-advice"     
+      - title: "교수님의 조언"
+        url: "/professor_advice"
+        category: "professor-advice"     
