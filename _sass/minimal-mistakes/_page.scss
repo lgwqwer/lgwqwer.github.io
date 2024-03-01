@@ -3,6 +3,7 @@
    ========================================================================== */
 
 #main {
+  @include clearfix;
   margin-left: 1em;
   margin-right: 1em;
   padding-left: 1em;
@@ -14,16 +15,15 @@
   animation-delay: 0.15s;
 
   @include breakpoint($large){
-    @include clearfix;
-  margin-left: 0;
-  margin-right: 2em;
-  padding-left: 0;
-  padding-right: 1em;
-  -webkit-animation: $intro-transition;
-  animation: $intro-transition;
-  max-width: 100%;
-  -webkit-animation-delay: 0.15s;
-  animation-delay: 0.15s;
+    margin-left: 0;
+    margin-right: 2em;
+    padding-left: 0;
+    padding-right: 1em;
+    -webkit-animation: $intro-transition;
+    animation: $intro-transition;
+    max-width: 100%;
+    -webkit-animation-delay: 0.15s;
+    animation-delay: 0.15s;
   }
 
   @include breakpoint($x-large) {
