@@ -87,5 +87,5 @@ sidebar-category:
   children:
 
     - title: "교수님의 조언"
-      url: "/professor's_advice"
-      category: "professor's-advice"     
+      url: "/professor_advice"
+      category: "professor-advice"     
