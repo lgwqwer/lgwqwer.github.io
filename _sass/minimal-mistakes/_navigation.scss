@@ -86,13 +86,13 @@
       border-radius: 0;
 
       &:hover {
-        color: $link-color-hover;
+        background-color: #D6C7A9;
       }
 
       &.current,
       &.current.disabled {
         color: #fff;
-        background: $primary-color;
+        background: #D6C7A9;
       }
 
       &.disabled {
