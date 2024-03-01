@@ -443,13 +443,9 @@
   font-size: 0.6rem;
   color: #7F8487;
 
-  .nav__list .nav__items a:hover {
-    color: #ECDBBA;
-  }
-
-  a {
-    color: inherit;
-  }
+  // a {
+  //   color: inherit;
+  // }
 
   .active {
     margin-left: -0.5em;
@@ -470,6 +466,10 @@
     -ms-transform: translate(0, 10%);
     transform: translate(0, 10%);
   }
+}
+
+.nav__list .nav__items a:hover {
+  color: #ECDBBA;
 }
 
 @include breakpoint(max-width $large - 1px) {
