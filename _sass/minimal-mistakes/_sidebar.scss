@@ -37,13 +37,6 @@
       */
       max-height: calc(100vh/* - #{$nav-height}*/);
     }
-
-    //추가된 코드
-    @include breakpoint(max-width $large) {
-      width: calc(#{$right-sidebar-width-narrow} - 1em);
-      padding: 2em;
-    }
-
   }
 
   @include breakpoint($x-large) {
