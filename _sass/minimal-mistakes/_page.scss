@@ -595,3 +595,7 @@ body {
 .utterances {
   max-width: 100% !important;
 }
+
+.utterances > html > body > em {
+  display:none;
+}
