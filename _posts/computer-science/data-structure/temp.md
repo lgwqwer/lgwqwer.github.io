@@ -3,7 +3,7 @@ layout: single
 title: '임시 파일'
 
 categories:
-  - Data structure
+  - data-structure
 
 toc_label: 임시파일
 toc: true
