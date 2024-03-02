@@ -1,10 +1,10 @@
 ---
 layout: single
-title: '자바 스타트'
+title: '자바 시작'
 categories:
   - java-programming
 
-toc_label: 자바 스타트
+toc_label: 자바 시작
 toc: true
 toc_sticky: true
 
