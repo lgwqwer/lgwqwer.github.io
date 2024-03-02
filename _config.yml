@@ -289,7 +289,7 @@ defaults:
       # read_time: true
       show_date: true
       comments: # true
-      share: true
+      share: false
       related: true
       use_math: true
       sidebar:                    # 추가한 부분
