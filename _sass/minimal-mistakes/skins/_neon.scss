@@ -52,6 +52,10 @@ $base0f: #cc6633 !default;
   color: $text-color;
   background-color: $primary-color;
   border-color: transparent;
+  
+  &:hover {
+    background-color: #D1C7AD;
+  }
 
   &:visited {
     color: $text-color;
