@@ -27,6 +27,37 @@ sidebar-category:
         url: "java_programming"
         category: "java-programming"
 
+  - title: "Computer Science"
+    children:
+
+      - title: "자료구조"
+        url: "/data_structure"
+        category: "data-structure" 
+
+      - title: "알고리즘"
+        url: "/algorithm"
+        category: "algorithm" 
+    
+  - title: "수학"
+    children:
+    
+      - title: "미적분"
+        url:  "/calculus"
+        category: "calculus"    
+
+      - title: "선형대수학"
+        url: "/linear_algebra"
+        category: "linear-algebra"
+
+      # - title: "공업수학"
+      #   url:  "/engineering_mathematics"
+      #   category: "engineering-mathematics"
+
+      - title: "이산수학"
+        url:  "/discrete_mathematics"
+        category: "discrete-mathematics"
+
+
   - title: "웹"
     children:
 
@@ -49,36 +80,6 @@ sidebar-category:
       - title: "Spring Boot"
         url: "/spring_boot"
         category: "spring-boot"
-
-  - title: "Computer Science"
-    children:
-
-      - title: "자료구조"
-          url: "/data_structure"
-          category: "data-structure" 
-
-      - title: "알고리즘"
-          url: "/algorithm"
-          category: "algorithm" 
-    
-  - title: "수학"
-    children:
-    
-      - title: "미적분"
-        url:  "/calculus"
-        category: "calculus"    
-
-      - title: "선형대수학"
-        url: "/linear_algebra"
-        category: "linear-algebra"
-
-      # - title: "공업수학"
-      #   url:  "/engineering_mathematics"
-      #   category: "engineering-mathematics"
-
-      - title: "이산수학"
-        url:  "/discrete_mathematics"
-        category: "discrete-mathmatics"
 
   - title: "프로젝트"
     children:
