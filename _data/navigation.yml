@@ -53,10 +53,14 @@ sidebar-category:
   - title: "Computer Science"
     children:
 
-      - title: "인공지능"
-        url:  "/artificial_intelligence"
-        category: "artificial-intelligence"
+      - title: "자료구조"
+          url: "/data_structure"
+          category: "data-structure" 
 
+      - title: "알고리즘"
+          url: "/algorithm"
+          category: "algorithm" 
+    
   - title: "수학"
     children:
     
@@ -68,15 +72,15 @@ sidebar-category:
         url: "/linear_algebra"
         category: "linear-algebra"
 
-      - title: "공업수학"
-        url:  "/engineering_mathematics"
-        category: "engineering-mathematics"
+      # - title: "공업수학"
+      #   url:  "/engineering_mathematics"
+      #   category: "engineering-mathematics"
 
       - title: "이산수학"
         url:  "/discrete_mathematics"
         category: "discrete-mathmatics"
 
-  - title: "팀 프로젝트"
+  - title: "프로젝트"
     children:
 
       - title: "웹 기반 기숙사 플랫폼"
@@ -93,4 +97,8 @@ sidebar-category:
       - title: "메모장"
         url:  "/real_notepad"
         category: "real_notepad"  
+
+      - title: "인공지능 특강"
+        url: "/AI_sp-lecture"
+        category: "AI-sp-lecture"
          
