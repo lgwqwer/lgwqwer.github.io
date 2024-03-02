@@ -8,8 +8,8 @@ toc_label: 자바 스타트
 toc: true
 toc_sticky: true
 
-date: 2024-02-29
-last_modified_at: 2024-02-29 
+date: 2024-03-01
+last_modified_at: 2024-03-01 
 
 comments: true
 use_math: true
