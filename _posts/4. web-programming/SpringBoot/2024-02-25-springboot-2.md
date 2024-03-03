@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Chapter 2. MVC 패턴'
+title: '[Springboot] MVC 패턴'
 categories:
   - spring-boot
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: '자바 시작'
+title: '[Java] 자바 시작'
 categories:
   - java-programming
 

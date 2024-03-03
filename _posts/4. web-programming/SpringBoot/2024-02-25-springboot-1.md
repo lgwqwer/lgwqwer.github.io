@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Chapter 1. Spring Boot 프로젝트 세팅'
+title: '[Springboot] Spring Boot 프로젝트 세팅'
 categories:
   - spring-boot
 comments: true
