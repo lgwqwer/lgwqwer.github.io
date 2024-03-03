@@ -6,7 +6,14 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
-  font-size: 22px;
+  font-size: 16px;
+  
+  @include breakpoint($large) {
+    position: relative;
+    min-height: 100%;
+    font-size: 22px;
+  }
+
 }
 
 body {
