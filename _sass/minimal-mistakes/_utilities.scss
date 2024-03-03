@@ -387,6 +387,7 @@ body:hover .visually-hidden button {
 
 .greedy-nav__toggle {
   &:before {
+    
     @supports (pointer-events: none) {
       content: '';
       position: fixed;
