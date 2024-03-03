@@ -128,6 +128,8 @@ blockquote {
 
 a {
   text-decoration-line: none;
+  color: #7F8487;
+
   &:focus {
     @extend %tab-focus;
   }
