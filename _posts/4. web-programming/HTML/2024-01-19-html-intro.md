@@ -1,13 +1,11 @@
 ---
 layout: single
-title: 'Intro. HTML이란 무엇인가?'
+title: '[HTML] HTML이란 무엇인가?'
 categories:
   - html-study
 comments: true
 use_math: true
 ---
-
-<br>
 
 # HTML(Hyper Text Markup Language)
 
