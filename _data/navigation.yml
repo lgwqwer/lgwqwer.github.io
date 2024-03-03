@@ -97,7 +97,7 @@ sidebar-category:
 
       - title: "메모장"
         url:  "/real_notepad"
-        category: "real_notepad"  
+        category: "real-notepad"  
 
       - title: "인공지능 특강"
         url: "/AI_sp-lecture"
