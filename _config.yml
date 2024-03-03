@@ -101,6 +101,15 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
+# Navigation Settings
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  # - title: "Blog"
+  #   url: /posts/
+
 
 # Site Author
 author:
@@ -275,6 +284,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+    
 
 
 # Defaults
