@@ -160,7 +160,7 @@ MSB라고 표기해준 부분이 가장 큰 자릿수를 의미한다.
 <br>
 
 ## - SI 단위와 IEC 단위 비교
-![image](https://github.com/lgwqwer/lgwqwer.github.io/assets/129755540/4c84fd17-0b5d-4d49-baf8-1a84515b1ce9)
+![image](https://github.com/lgwqwer/lgwqwer.github.io/assets/129755540/4c84fd17-0b5d-4d49-baf8-1a84515b1ce9)  
 (출처: 위키디피아)
 
 우리는 줄곧 1,000단위를 K(킬로), 1,000,000를 M(메가), 1,000,000,000은 G(기가) 등등 여러 10진 단위를 사용해왔다.  
@@ -171,7 +171,9 @@ MSB라고 표기해준 부분이 가장 큰 자릿수를 의미한다.
 
 하지만, 디지털 세계에서는 2진수로 표현하므로, 단위가 조금 다르다.  
 
-![image](https://github.com/lgwqwer/lgwqwer.github.io/assets/129755540/7ada8632-c252-4bde-908d-3f18c2cdd697)
+![image](https://github.com/lgwqwer/lgwqwer.github.io/assets/129755540/7ada8632-c252-4bde-908d-3f18c2cdd697)  
+(출처: 위키디피아)
+
 
 밑 수가 2인 단위를 2진 단위라고 하고, 그 2진 단위를 IEC 단위라고 한다.  
 
