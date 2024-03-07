@@ -189,7 +189,12 @@ Ki(키비)/K(킬로), Mi(메비)/M(메가), ... SI 단위랑 IEC 단위랑 뭔�
 DVD-ROM에는 얼마나 많은 데이터(bit)가 저장 되는가?   
 (GiB의 B는 Byte를 나타낸다.)
 
-### 풀이
 
-9.6Gi(기비)는 $9.6 \cdot 2^{30}$이다. 즉, $9.6$GiB(기비바이트)는 $9.6 \cdot 2^{30}$byte이다.  
+<details>
+  <summary><font color='tomato'>풀이</font></summary>
+  
+  9.6Gi(기비)는 $9.6 \cdot 2^{30}$이다. 즉, $9.6$GiB(기비바이트)는 $9.6 \cdot 2^{30}$byte이다.  
 그런데, 비트(bit)로 표현해야 하므로, DVD-ROM은 $76.8 \cdot 2^{30}$ bit를 저장할 수 있다.  
+
+</details>
+
