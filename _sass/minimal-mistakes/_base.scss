@@ -8,11 +8,6 @@ html {
   min-height: 100%;
   font-size: 16px;
   
-  ::selection {
-    color:#1E1F21;
-    background-color: #D1C7AD;
-  }
-  
   @include breakpoint($large) {
     position: relative;
     min-height: 100%;
@@ -27,6 +22,11 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
+
+  ::selection {
+    color:#1E1F21;
+    background-color: #D1C7AD;
+  }
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
