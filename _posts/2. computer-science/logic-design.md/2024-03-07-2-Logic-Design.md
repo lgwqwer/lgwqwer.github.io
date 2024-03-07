@@ -1,11 +1,11 @@
 ---
 layout: single
-title: '[Logic Design] 디지털 논리회로 1'
+title: '[Logic Design] 디지털 시스템 1'
 
 categories:
   - logic-design
 
-toc_label: 디지털 논리회로
+toc_label: 디지털 시스템
 toc: true
 toc_sticky: true
 
