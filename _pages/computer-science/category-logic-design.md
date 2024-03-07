@@ -1,7 +1,7 @@
 ---
 title: "논리설계"
 layout: archive
-permalink: /logic-design
+permalink: /logic_design
 ---
 
 
