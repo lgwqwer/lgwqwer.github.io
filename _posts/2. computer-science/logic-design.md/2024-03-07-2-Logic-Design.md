@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Chapter 1-1 디지털 논리회로'
+title: '[Logic Design] 디지털 논리회로 1'
 
 categories:
   - logic-design
