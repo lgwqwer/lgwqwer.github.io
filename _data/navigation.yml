@@ -37,7 +37,11 @@ sidebar-category:
       - title: "알고리즘"
         url: "/algorithm"
         category: "algorithm" 
-    
+
+      - title: "논리설계"
+        url: "/logic_design"
+        category: "logic-design" 
+
   - title: "수학"
     children:
     
