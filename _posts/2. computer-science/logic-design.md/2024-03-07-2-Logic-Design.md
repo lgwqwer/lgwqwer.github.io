@@ -91,7 +91,7 @@ use_math: true
 꼭 그렇지만은 않다.  
 디지털 신호를 무한정 쪼개어보면, 이산적인 값도 결국 연속적으로 보이기 때문에, 서로 변환이 가능하다.  
 
-이러한 아날로그 신호를 디지털 신호로 변환해주는 장치를 바로 <font color='tomato'>A/D converter</font>(Analog-to Digital-converter)라고 한다.  
+이러한 아날로그 신호를 디지털 신호로 변환해주는 장치를 바로 <font color='tomato'>A/D converter</font>(Analog-to-Digitalconverter)라고 한다.  
 
 변환한 디지털 신호를 그대로 출력할 수도 있고, 가공하여 다시 아날로그 신호로 변환할 수 있다.  
 
