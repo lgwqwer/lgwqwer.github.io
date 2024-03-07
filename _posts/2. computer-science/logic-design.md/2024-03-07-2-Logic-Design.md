@@ -193,7 +193,7 @@ DVD-ROM에는 얼마나 많은 데이터(bit)가 저장 되는가?
 <details>
   <summary><font color='tomato'>풀이</font></summary>
   
-  9.6Gi(기비)는 $9.6 \cdot 2^{30}$이다. 즉, $9.6$GiB(기비바이트)는 $9.6 \cdot 2^{30}$byte이다.  
+9.6Gi(기비)는 $9.6 \cdot 2^{30}$이다. 즉, $9.6$GiB(기비바이트)는 $9.6 \cdot 2^{30}$byte이다.  
 그런데, 비트(bit)로 표현해야 하므로, DVD-ROM은 $76.8 \cdot 2^{30}$ bit를 저장할 수 있다.  
 
 </details>
