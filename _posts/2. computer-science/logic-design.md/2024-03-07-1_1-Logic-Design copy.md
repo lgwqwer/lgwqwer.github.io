@@ -20,7 +20,7 @@ use_math: true
 
 <br>
 
-## - 아날로그 신호(Analog Signal)란?
+# 1. 아날로그 신호(Analog Signal)란?
 
 아날로그 신호는 <font color='tomato'>자연계에서 일어나는 물리적 현상에 대한 신호</font>를 말한다.  
 
@@ -35,7 +35,7 @@ use_math: true
 
 <br>
 
-## - 디지털 신호(Digital Signal)란?
+# 2. 디지털 신호(Digital Signal)란?
 
 ![image](https://github.com/lgwqwer/lgwqwer.github.io/assets/129755540/20f4359a-713c-473b-9cac-aaf59dd26e4f)
 
@@ -50,7 +50,7 @@ use_math: true
 
 <br>
 
-## - 아날로그 신호/디지털 신호의 특징
+# 3. 아날로그 신호/디지털 신호의 특징
 
 - 디지털 신호
 
@@ -78,7 +78,7 @@ use_math: true
 
 <br>
 
-# - 디지털과 아날로그 신호는 완전히 다른 개념인가?
+# 4. 디지털과 아날로그 신호는 완전히 다른 개념인가?
 
 꼭 그렇지만은 않다.  
 

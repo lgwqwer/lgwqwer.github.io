@@ -29,7 +29,7 @@ use_math: true
 <br>
 <hr>
 
-## - 이상적인 펄스 파형
+# 1. 이상적인 펄스 파형
 
 ![LD4 2024-03-07 10_33_22](https://github.com/lgwqwer/lgwqwer.github.io/assets/129755540/459690f3-d364-4890-b28e-32fcbd8499c9)
 
@@ -42,7 +42,7 @@ use_math: true
 
 <br>
 
-## - 정논리(positive logic)와 부논리(negative logic)
+# 2. 정논리(positive logic)와 부논리(negative logic)
 
 
 ![image](https://github.com/lgwqwer/lgwqwer.github.io/assets/129755540/ea45d698-7518-4cbb-9e37-44318dfeb16e)
@@ -55,7 +55,7 @@ use_math: true
 
 <br>
 
-## - 실제적인 펄스 파형
+# 3. 실제적인 펄스 파형
 
 ![LD5 2024-03-07 10_51_50](https://github.com/lgwqwer/lgwqwer.github.io/assets/129755540/8eecea61-998f-48d5-a402-95dbbce764c6)
 
@@ -66,7 +66,7 @@ use_math: true
 
 <br>
 
-## - 주기(frequency)와 주파수(period)
+# 4. 주기(frequency)와 주파수(period)
 
 주기와 주파수는 고등 물리 시간에 배웠을 것이다.  
 혹여 안 배웠더라도 중요하니 열심히 공부해두자.
@@ -103,7 +103,7 @@ use_math: true
 
 <br>
 
-### - 예제
+## - 예제
 
 주기가 $500\mu s$인 주기 파형이 있다. 이때 주파수를 구하여라.
 
