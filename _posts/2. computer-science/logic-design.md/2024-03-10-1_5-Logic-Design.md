@@ -30,6 +30,8 @@ ADC와 DAC는 아날로그-디지털 신호를 변환해주는 변환기라고 �
 
 이름부터 무섭다.. 변환 과정의 예시를 보면서 하나하나 살펴보도록 하자.  
 
+<br>
+
 ## 1. 표본화(Sampling)
 
 ![S 2024-03-07 11_56_45](https://github.com/lgwqwer/lgwqwer.github.io/assets/129755540/79c88921-f1ff-48cc-b6c0-89caa3a79012)
