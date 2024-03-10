@@ -20,7 +20,7 @@ ADC와 DAC에 대해서 알아보도록 하자.
 
 <br>
 
-# - ADC와 DAC
+# 1. ADC와 DAC
 
 ADC와 DAC는 아날로그-디지털 신호를 변환해주는 변환기라고 앞서 설명했다.  
 
@@ -32,7 +32,7 @@ ADC와 DAC는 아날로그-디지털 신호를 변환해주는 변환기라고 �
 
 <br>
 
-## 1. 표본화(Sampling)
+## 1-1. 표본화(Sampling)
 
 ![S 2024-03-07 11_56_45](https://github.com/lgwqwer/lgwqwer.github.io/assets/129755540/79c88921-f1ff-48cc-b6c0-89caa3a79012)
 
@@ -47,7 +47,7 @@ ADC와 DAC는 아날로그-디지털 신호를 변환해주는 변환기라고 �
 <br>
 <hr>
 
-## 2. 양자화(Quantization)
+## 1-2. 양자화(Quantization)
 
 ![s 2024-03-07 12_03_09](https://github.com/lgwqwer/lgwqwer.github.io/assets/129755540/7fcf2275-b030-4268-a8af-428010f0649a)
 
@@ -58,7 +58,7 @@ ADC와 DAC는 아날로그-디지털 신호를 변환해주는 변환기라고 �
 <br>
 <hr>
 
-## 3. 부호화(Coding)
+## 1-3. 부호화(Coding)
 
 ![s 2024-03-07 12_06_56](https://github.com/lgwqwer/lgwqwer.github.io/assets/129755540/2e510d4e-6937-44b4-a456-f35fc0da52be)
 
