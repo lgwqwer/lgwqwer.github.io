@@ -16,7 +16,7 @@ comments: true
 use_math: true
 ---
 
-오늘은 ADC와 DAC에 대해서 알아보도록 하자.  
+ADC와 DAC에 대해서 알아보도록 하자.  
 
 # ADC(Analog-to-Digital Convertor)
 

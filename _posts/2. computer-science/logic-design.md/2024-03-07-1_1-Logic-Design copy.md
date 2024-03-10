@@ -5,7 +5,7 @@ title: '[Logic Design] 아날로그(Analog) vs 디지털(Digital)'
 categories:
   - logic-design
 
-toc_label: 디지털 시스템
+toc_label: 아날로그 vs 디지털
 toc: true
 toc_sticky: true
 
@@ -16,15 +16,7 @@ comments: true
 use_math: true
 ---
 
-오늘은 디지털 시스템에 대해서 알아보도록 하자. 
-
-<br>
-
-# 1. 아날로그 신호 vs 디지털 신호 
-
-우리는 디지털과 반대되는 개념을 흔히 아날로그라고 생각한다. 
-
-각각의 특징과 차이점을 알아보자.  
+아날로그와 디지털 각각의 특징과 차이점을 알아보도록 하자.
 
 <br>
 
@@ -86,7 +78,7 @@ use_math: true
 
 <br>
 
-# 2. 디지털과 아날로그 신호는 완전히 다른 개념인가?
+# - 디지털과 아날로그 신호는 완전히 다른 개념인가?
 
 꼭 그렇지만은 않다.  
 
