@@ -1,6 +1,6 @@
 ---
 layout: single
-title: '[Logic Design] 디지털 정보를 표현하는 방법'
+title: '[논리설계] Ch 1-2 디지털 정보를 표현하는 방법'
 
 categories:
   - logic-design

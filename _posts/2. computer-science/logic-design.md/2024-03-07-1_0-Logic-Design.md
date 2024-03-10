@@ -1,6 +1,6 @@
 ---
 layout: single
-title: '[Logic Design] 논리설계를 왜 배워야 하는가?'
+title: '[논리설계] 논리설계를 왜 배워야 하는가?'
 
 categories:
   - logic-design
