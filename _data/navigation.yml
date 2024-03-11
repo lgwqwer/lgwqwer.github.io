@@ -27,6 +27,10 @@ sidebar-category:
         url: "java_programming"
         category: "java-programming"
 
+      - title: "Linux"
+        url: "linux_programming"
+        category: "linux-programming"
+
   - title: "Computer Science"
     children:
 
