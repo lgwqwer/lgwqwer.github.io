@@ -113,9 +113,9 @@ main:
 
 # Site Author
 author:
-  name             : "건붕"
+  name             : "건좌"
   avatar           : "/assets/images/pp.jpeg"
-  bio              : "안녕하세요! 건붕입니다."
+  bio              : "안녕하세요! 건좌입니다."
   location         : #"South Korea"
   email            : "lgwqwer@gmail.com"
   links:
