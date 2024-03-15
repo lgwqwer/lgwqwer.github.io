@@ -1,6 +1,6 @@
 ---
 layout: single
-title: '[논리설계] Ch 1-1 아날로그(Analog) vs 디지털(Digital)'
+title: '[논리설계] Ch 1.1 아날로그(Analog) vs 디지털(Digital)'
 
 categories:
   - logic-design

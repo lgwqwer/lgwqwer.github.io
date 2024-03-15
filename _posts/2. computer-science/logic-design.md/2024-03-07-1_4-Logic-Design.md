@@ -1,6 +1,6 @@
 ---
 layout: single
-title: '[논리설계] Ch 1-4 디지털 집적회로'
+title: '[논리설계] Ch 1.4 디지털 집적회로'
 
 categories:
   - logic-design

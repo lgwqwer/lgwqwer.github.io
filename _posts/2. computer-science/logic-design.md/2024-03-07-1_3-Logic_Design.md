@@ -1,6 +1,6 @@
 ---
 layout: single
-title: '[논리설계] Ch 1-3 펄스 파형(Pulse Wave)'
+title: '[논리설계] Ch 1.3 펄스 파형(Pulse Wave)'
 
 categories:
   - logic-design

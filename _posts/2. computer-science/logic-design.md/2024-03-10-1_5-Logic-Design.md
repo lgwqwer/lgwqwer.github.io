@@ -1,6 +1,6 @@
 ---
 layout: single
-title: '[논리설계] Ch 1-5 ADC와 DAC'
+title: '[논리설계] Ch 1.5 ADC와 DAC'
 
 categories:
   - logic-design
